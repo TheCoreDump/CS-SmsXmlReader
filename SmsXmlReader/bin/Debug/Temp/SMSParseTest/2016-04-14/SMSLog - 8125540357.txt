@@ -1,0 +1,679 @@
+2016-03-25 12:40:41 : SMS message: Me -> Katie Akers (8125540357) : Test message
+2016-03-25 12:43:13 : SMS message: Me -> Katie Akers (8125540357) : Trying another message...
+2016-03-25 12:43:27 : SMS message: Me -> Katie Akers (8125540357) : Looks like it might be working, now
+2016-03-25 12:52:49 : SMS message: Katie Akers -> Me (8125540357) : I am going to have an anxiety attack my freaking dad is packing and has done a terrible job. I really would like a cigarette right now
+2016-03-25 13:05:50 : SMS message: Me -> Katie Akers (8125540357) : Uh oh- is your camping gear going to be sprinkled along I-75?
+2016-03-25 13:06:31 : SMS message: Katie Akers -> Me (8125540357) : I hope not. We are on our way and I have instructed my parents not to talk to me
+2016-03-25 14:00:38 : SMS message: Me -> Katie Akers (8125540357) : Btw- can't tell you how excited I am that I will see you tomorrow...
+2016-03-25 15:29:27 : SMS message: Me -> Katie Akers (8125540357) : So where are you stopping for lunch?
+2016-03-25 15:29:49 : SMS message: Me -> Katie Akers (8125540357) : (Life 360 says you are logged out)
+2016-03-25 15:30:48 : SMS message: Katie Akers -> Me (8125540357) : We don't stop we have sandwiches
+2016-03-25 15:31:06 : SMS message: Me -> Katie Akers (8125540357) : Ah, that's rig HR
+2016-03-25 15:31:11 : SMS message: Me -> Katie Akers (8125540357) : *right
+2016-03-25 15:31:35 : SMS message: Katie Akers -> Me (8125540357) : I see me on 360
+2016-03-25 19:52:34 : SMS message: Katie Akers -> Me (8125540357) : Hey u... Stopped for gas. I'm also extremely excited to see you. Can't wait just to hug u and feel u
+2016-03-25 19:53:11 : SMS message: Me -> Katie Akers (8125540357) : Where are you guys at? 
+2016-03-25 19:53:35 : SMS message: Katie Akers -> Me (8125540357) : Just south of Atlanta. Can u see me on 360
+2016-03-25 19:56:04 : SMS message: Me -> Katie Akers (8125540357) : No- I just removed you and re-added you
+2016-03-25 20:14:13 : SMS message: Me -> Katie Akers (8125540357) : I see you now
+2016-03-25 20:14:18 : SMS message: Me -> Katie Akers (8125540357) : ☺
+2016-03-25 21:10:14 : SMS message: Katie Akers -> Me (8125540357) : Good... Still driving . Stuck In a traffic jam south of Atlanta 
+2016-03-25 21:25:31 : SMS message: Me -> Katie Akers (8125540357) : Ugh- that sucks
+2016-03-25 21:25:45 : SMS message: Me -> Katie Akers (8125540357) : I am heading home.  Had enough for today...
+2016-03-25 23:57:19 : SMS message: Me -> Katie Akers (8125540357) : You know where you are going to stop tonight?
+2016-03-25 23:58:07 : SMS message: Katie Akers -> Me (8125540357) : Stopping in Chattanooga in about 30 minutes
+2016-03-25 23:58:34 : SMS message: Me -> Katie Akers (8125540357) : Your dad driving?
+2016-03-25 23:59:05 : SMS message: Katie Akers -> Me (8125540357) : No I am
+2016-03-26 00:04:22 : SMS message: Me -> Katie Akers (8125540357) : Ok- let me know when you can talk tonight.  ☺
+2016-03-26 00:38:25 : SMS message: Katie Akers -> Me (8125540357) : We are here. Moms checking in. I will call u when we get settled
+2016-03-26 00:39:50 : SMS message: Me -> Katie Akers (8125540357) : Ok
+2016-03-26 01:25:13 : SMS message: Katie Akers -> Me (8125540357) : Omg we have about 15 people in the room
+2016-03-26 01:25:55 : SMS message: Katie Akers -> Me (8125540357) : I really can't wait to see u.   Want a big hug... Just holding me
+2016-03-26 01:35:19 : SMS message: Katie Akers -> Me (8125540357) : Ha any way u could go to north manitou trip June 25 - July 1? I'm g
+2016-03-26 01:35:20 : SMS message: Katie Akers -> Me (8125540357) : oing to be w you either wAy
+2016-03-26 02:41:27 : SMS message: Me -> Katie Akers (8125540357) : Not sure- will discuss tomorrow.  Excited to see you
+2016-03-26 11:25:53 : SMS message: Katie Akers -> Me (8125540357) : Got on our way at 6:30!! See u soon
+2016-03-26 11:27:32 : SMS message: Me -> Katie Akers (8125540357) : Nice!
+2016-03-26 11:27:45 : SMS message: Me -> Katie Akers (8125540357) : Thinking about getting out of bed
+2016-03-26 11:27:48 : SMS message: Katie Akers -> Me (8125540357) : You are up early.
+2016-03-26 11:28:15 : SMS message: Katie Akers -> Me (8125540357) : On our way again. Beautiful mts here
+2016-03-26 13:25:57 : SMS message: Katie Akers -> Me (8125540357) : Almost to Clarksville 
+2016-03-26 14:59:25 : SMS message: Me -> Katie Akers (8125540357) : Ugh- I feel back asleep- woke up around 10.  Will probably run a few errands and head your way.  ☺
+2016-03-26 14:59:54 : SMS message: Katie Akers -> Me (8125540357) : 
+2016-03-26 17:01:08 : SMS message: Me -> Katie Akers (8125540357) : I am heading that way in about 10 minutes
+2016-03-26 17:03:31 : SMS message: Katie Akers -> Me (8125540357) : We are almost home
+2016-03-26 18:29:33 : SMS message: Katie Akers -> Me (8125540357) : Home yaaaaa
+2016-03-26 18:31:00 : SMS message: Katie Akers -> Me (8125540357) : Looks like u are getting pretty close
+2016-03-27 19:05:40 : SMS message: Me -> Katie Akers (8125540357) : Made it home
+2016-03-27 19:06:14 : SMS message: Me -> Katie Akers (8125540357) : It was great to see you and hold you in my arms again.  ☺
+2016-03-27 19:39:04 : SMS message: Katie Akers -> Me (8125540357) : I know... I actually missed u as soo as I pulled out of the lot. Ca
+2016-03-27 19:39:07 : SMS message: Katie Akers -> Me (8125540357) : me home.... Opted to shop in Sullivan. I love bdubs... Sometimes it
+2016-03-27 19:39:29 : SMS message: Katie Akers -> Me (8125540357) :  doesn't love me
+2016-03-27 23:38:30 : SMS message: Katie Akers -> Me (8125540357) : We had a hail storm
+2016-03-27 23:40:24 : SMS message: Me -> Katie Akers (8125540357) : Uh oh- a big one?
+2016-03-27 23:40:54 : SMS message: Katie Akers -> Me (8125540357) : Kind of... Did u get ur kiddos? 
+2016-03-27 23:52:39 : SMS message: Me -> Katie Akers (8125540357) : Yes- we are watching Hop
+2016-03-27 23:53:00 : SMS message: Katie Akers -> Me (8125540357) : Nice we are watching the loft
+2016-03-27 23:54:47 : SMS message: Me -> Katie Akers (8125540357) : Kids are really wound up- I think they have had a lot of Easter candy
+2016-03-27 23:56:42 : SMS message: Katie Akers -> Me (8125540357) : Ummm probably. I didn't cook dinner tonight kids are full from their dads.  Sleepy.... Not going to be awake to long. I will bring ur tent on Thursday. I'm ready to see u again
+2016-03-28 00:01:16 : SMS message: Me -> Katie Akers (8125540357) : Ok- I guess I did forget to get it today.
+2016-03-28 00:01:25 : SMS message: Me -> Katie Akers (8125540357) : I am ready to see you again, too
+2016-03-28 00:01:45 : SMS message: Katie Akers -> Me (8125540357) : I had to dry it out.  
+2016-03-28 00:02:16 : SMS message: Me -> Katie Akers (8125540357) : Did you get it dried out before the rain came?  ☺
+2016-03-28 00:03:45 : SMS message: Katie Akers -> Me (8125540357) : Yes I did. 
+2016-03-28 00:27:51 : SMS message: Katie Akers -> Me (8125540357) : I found some ticks btw. Make sure u look
+2016-03-28 00:28:18 : SMS message: Me -> Katie Akers (8125540357) : Ok - will check myself out
+2016-03-28 00:29:33 : SMS message: Katie Akers -> Me (8125540357) : Going to bed.... So sweet dreams. I loved having you here. You make
+2016-03-28 00:29:36 : SMS message: Katie Akers -> Me (8125540357) :  me feel so many good things. Thank you. Love u
+2016-03-28 00:30:27 : SMS message: Me -> Katie Akers (8125540357) : Goodnight, Katie! I loved spending my weekend with you.  Sweet dreams!
+2016-03-28 01:00:45 : SMS message: Me -> Katie Akers (8125540357) : Will have to tell Jack and Ramsey goodnight as well
+2016-03-28 01:03:03 : SMS message: Katie Akers -> Me (8125540357) : ☺️
+2016-03-28 10:38:06 : SMS message: Katie Akers -> Me (8125540357) : Good morning sunshine
+2016-03-28 10:38:31 : SMS message: Me -> Katie Akers (8125540357) : Was just about to text you the same thing. ☺
+2016-03-28 10:38:55 : SMS message: Me -> Katie Akers (8125540357) : Hope you have a hest day back at school
+2016-03-28 10:41:05 : SMS message: Katie Akers -> Me (8125540357) : I will... I hope ur week goes fast for u
+2016-03-28 10:52:34 : SMS message: Me -> Katie Akers (8125540357) : I have a feeling it will.  Feel like I ha e a ton of stuff to do this week.
+2016-03-28 10:54:36 : SMS message: Katie Akers -> Me (8125540357) : I'm sure it will
+2016-03-28 14:30:26 : SMS message: Me -> Katie Akers (8125540357) : Hope you are readjusting to work ok- I was just looking at the map of Green Sullivan and remembering the great weekend I had with you
+2016-03-28 14:30:36 : SMS message: Me -> Katie Akers (8125540357) : Would be a fun place to kayak
+2016-03-28 15:18:13 : SMS message: Katie Akers -> Me (8125540357) : It is a fun place to kayak and there are places to camp too 
+2016-03-28 20:30:04 : SMS message: Me -> Katie Akers (8125540357) : Can I call you at 5 today? 
+2016-03-28 20:33:12 : SMS message: Katie Akers -> Me (8125540357) : I think Natalie is here
+2016-03-28 20:45:06 : SMS message: Me -> Katie Akers (8125540357) : Ok- can talk to you later, then.  ☺ 
+2016-03-28 20:45:19 : SMS message: Katie Akers -> Me (8125540357) : Yes
+2016-03-28 20:45:23 : SMS message: Me -> Katie Akers (8125540357) : I want to hear how your first day back went
+2016-03-28 22:41:45 : SMS message: Katie Akers -> Me (8125540357) : Hamburgers were great!!!!
+2016-03-28 22:42:53 : SMS message: Me -> Katie Akers (8125540357) : Yes- I love those pre-made patties
+2016-03-28 23:32:39 : SMS message: Me -> Katie Akers (8125540357) : Maybe we won't get to take a bath- I think my water heater is dead
+2016-03-28 23:32:45 : SMS message: Me -> Katie Akers (8125540357) : 
+2016-03-28 23:43:49 : SMS message: Katie Akers -> Me (8125540357) : Oh no....
+2016-03-28 23:47:12 : SMS message: Me -> Katie Akers (8125540357) : Yeah- should be able to get a plumber out here this week
+2016-03-29 00:49:58 : SMS message: Katie Akers -> Me (8125540357) : We can alwAys shower together
+2016-03-29 00:52:10 : SMS message: Me -> Katie Akers (8125540357) : Would be a chilly shower.  ❄⛄
+2016-03-29 00:52:30 : SMS message: Me -> Katie Akers (8125540357) : I am not looking forward to it tomorrow, actually
+2016-03-29 00:52:43 : SMS message: Me -> Katie Akers (8125540357) : Although, I could shower at work...
+2016-03-29 00:53:20 : SMS message: Me -> Katie Akers (8125540357) : Could take the kids there tomorrow night if it not fixed yet...
+2016-03-29 00:53:44 : SMS message: Me -> Katie Akers (8125540357) : Or I could drop off the kids at school and run to the gym...
+2016-03-29 00:54:06 : SMS message: Me -> Katie Akers (8125540357) : Btw- don't let me forget to ask you about 5/6 tonight
+2016-03-29 00:59:10 : SMS message: Katie Akers -> Me (8125540357) : Okay I won't 
+2016-03-29 01:24:05 : SMS message: Katie Akers -> Me (8125540357) : Call me when you can
+2016-03-29 10:22:28 : SMS message: Katie Akers -> Me (8125540357) : Good morning. Had a nice walk this morning with the dogs. 
+2016-03-29 10:22:55 : SMS message: Katie Akers -> Me (8125540357) : PS the mummies are playing in Terre Haute I just saw an advertisement on TV
+2016-03-29 10:38:21 : SMS message: Me -> Katie Akers (8125540357) : Morning!  I am about to take a really, really, fast shower.  Wish me luck...  
+2016-03-29 10:44:28 : SMS message: Me -> Katie Akers (8125540357) : Ok...  that sucked...  
+2016-03-29 11:02:45 : SMS message: Katie Akers -> Me (8125540357) : I bet
+2016-03-29 11:37:15 : SMS message: Me -> Katie Akers (8125540357) : Have I ever told you how cute your smile is?
+2016-03-29 15:56:44 : SMS message: Katie Akers -> Me (8125540357) : Gr... Busy day
+2016-03-29 15:58:20 : SMS message: Katie Akers -> Me (8125540357) : Hope all is well with u. Can't wait to see u
+2016-03-29 16:03:33 : SMS message: Me -> Katie Akers (8125540357) : Wow- so I guess I need a water softener this summer
+2016-03-29 16:03:37 : SMS message: Me -> Katie Akers (8125540357) : Day is alright
+2016-03-29 16:42:33 : SMS message: Me -> Katie Akers (8125540357) : Will have to tell you about the water heater later
+2016-03-29 18:55:16 : SMS message: Me -> Katie Akers (8125540357) : Hope you're having a good day- I can talk anytime this afternoon since I am working from home
+2016-03-29 18:55:40 : SMS message: Katie Akers -> Me (8125540357) : You are
+2016-03-29 18:56:09 : SMS message: Me -> Katie Akers (8125540357) : Yes- had to be here for the water heater
+2016-03-29 18:56:21 : SMS message: Katie Akers -> Me (8125540357) : 
+2016-03-29 21:40:54 : SMS message: Me -> Katie Akers (8125540357) : Looks good
+2016-03-30 00:01:06 : SMS message: Me -> Katie Akers (8125540357) : Kids did not like the pizza buns
+2016-03-30 00:01:48 : SMS message: Me -> Katie Akers (8125540357) : Kelsey said, "Well, we know not to cook that one again..."   
+2016-03-30 00:01:54 : SMS message: Katie Akers -> Me (8125540357) : Oh that stinks..... Otherwise your night going well?
+2016-03-30 00:02:18 : SMS message: Me -> Katie Akers (8125540357) : Yes, been quiet. 
+2016-03-30 00:02:34 : SMS message: Me -> Katie Akers (8125540357) : Kids don't have any homework this week, so it is nice
+2016-03-30 00:02:41 : SMS message: Katie Akers -> Me (8125540357) : We are watching duplex pretty funny
+2016-03-30 00:03:18 : SMS message: Me -> Katie Akers (8125540357) : Kelsey did say that she liked the sausage gravy you made.  She asked if you would make it again for her sometime.
+2016-03-30 00:03:25 : SMS message: Me -> Katie Akers (8125540357) : Have not seen Duplex
+2016-03-30 00:04:19 : SMS message: Katie Akers -> Me (8125540357) : Ah she did. That makes me feel good. Of course you told her that I 
+2016-03-30 00:04:21 : SMS message: Katie Akers -> Me (8125540357) : would love to fix it
+2016-03-30 00:05:18 : SMS message: Me -> Katie Akers (8125540357) : I told her that we had biscuits in the fridge that will be good when we get back from FL.  
+2016-03-30 00:05:38 : SMS message: Me -> Katie Akers (8125540357) : *hint* *hint* 
+2016-03-30 00:06:05 : SMS message: Katie Akers -> Me (8125540357) : I will make it for her then...  hint taken
+2016-03-30 00:09:27 : SMS message: Katie Akers -> Me (8125540357) : Have I told you I think you resemble. Ben stiller
+2016-03-30 00:13:22 : SMS message: Katie Akers -> Me (8125540357) : Love it!
+2016-03-30 00:14:29 : SMS message: Me -> Katie Akers (8125540357) : I had people asking me to take pictures with them that night- was pretty funny
+2016-03-30 00:14:51 : SMS message: Katie Akers -> Me (8125540357) : I'm sure. U look just like them
+2016-03-30 00:17:41 : SMS message: Katie Akers -> Me (8125540357) : Him
+2016-03-30 00:22:51 : SMS message: Me -> Katie Akers (8125540357) : Amy and Jeff have said that before. 
+2016-03-30 00:23:08 : SMS message: Me -> Katie Akers (8125540357) : Someone said I looked like George Harrison, too, but I don't see that one
+2016-03-30 00:23:53 : SMS message: Katie Akers -> Me (8125540357) : Hmmm.... More like Ben and I happen to think he is incredibly sexy
+2016-03-30 00:25:18 : SMS message: Me -> Katie Akers (8125540357) : I don't see it
+2016-03-30 00:25:42 : SMS message: Katie Akers -> Me (8125540357) : Who is that
+2016-03-30 00:26:24 : SMS message: Me -> Katie Akers (8125540357) : George Harrison- from the Beatles
+2016-03-30 00:27:17 : SMS message: Katie Akers -> Me (8125540357) : Omg for some reason I was thinking George cloony
+2016-03-30 00:28:19 : SMS message: Me -> Katie Akers (8125540357) : Who have people told you that you look like?
+2016-03-30 00:29:12 : SMS message: Katie Akers -> Me (8125540357) : Years ago when dirty dancing came out they said I looked like Jennifer gray
+2016-03-30 00:32:21 : SMS message: Me -> Katie Akers (8125540357) : I can kinda see that
+2016-03-30 00:32:39 : SMS message: Katie Akers -> Me (8125540357) : Maybe a little but not much
+2016-03-30 00:35:24 : SMS message: Katie Akers -> Me (8125540357) : I hope so. 
+2016-03-30 01:30:47 : SMS message: Katie Akers -> Me (8125540357) : At DQ waiting for syd. I'm tired.....
+2016-03-30 01:32:19 : SMS message: Me -> Katie Akers (8125540357) : I have to call mom back- might be on the phone for a while.
+2016-03-30 01:32:41 : SMS message: Katie Akers -> Me (8125540357) : Okay.... Sweet dreams love I
+2016-03-30 01:32:45 : SMS message: Katie Akers -> Me (8125540357) : You
+2016-03-30 01:33:13 : SMS message: Me -> Katie Akers (8125540357) : Sweet dreams to you, too, Katie!  Love you!
+2016-03-30 10:28:08 : SMS message: Me -> Katie Akers (8125540357) : Good morning!  About to take a nice, hot shower...  ☺
+2016-03-30 10:28:24 : SMS message: Me -> Katie Akers (8125540357) : Hope you have a good one, today...
+2016-03-30 10:29:03 : SMS message: Katie Akers -> Me (8125540357) : Me too... Been thinking about u all morning. Just one more day. Hope u have a great day too
+2016-03-30 15:21:57 : SMS message: Katie Akers -> Me (8125540357) : How is ur day
+2016-03-30 15:22:29 : SMS message: Me -> Katie Akers (8125540357) : Going well.  Still having problems with my stuff at work.
+2016-03-30 15:23:03 : SMS message: Me -> Katie Akers (8125540357) : How is your day going ?
+2016-03-30 15:24:02 : SMS message: Katie Akers -> Me (8125540357) : My day has actually been great! I think this has been the best day of the school year
+2016-03-30 15:33:15 : SMS message: Me -> Katie Akers (8125540357) : Awesome!  I am glad you are having a good day. 
+2016-03-30 15:33:19 : SMS message: Me -> Katie Akers (8125540357) : Hayden being good? 
+2016-03-30 15:33:40 : SMS message: Katie Akers -> Me (8125540357) : Yes an angel
+2016-03-30 15:34:03 : SMS message: Me -> Katie Akers (8125540357) : Good 
+2016-03-30 15:53:15 : SMS message: Katie Akers -> Me (8125540357) : 
+2016-03-30 16:02:42 : SMS message: Me -> Katie Akers (8125540357) : Tanning for the last time today, btw
+2016-03-30 16:03:03 : SMS message: Me -> Katie Akers (8125540357) : Hopefully I don't get burned to a crisp when I get in the sun and ruin it
+2016-03-30 19:36:54 : SMS message: Katie Akers -> Me (8125540357) : OK so this time tomorrow I should be heading up your way about 26 more hours until I see you
+2016-03-30 19:37:38 : SMS message: Me -> Katie Akers (8125540357) : Can't come soon enough...  ☺ 
+2016-03-30 19:38:09 : SMS message: Katie Akers -> Me (8125540357) : I am so looking forward to it
+2016-03-30 19:46:00 : SMS message: Katie Akers -> Me (8125540357) : Do u like sweet potatoes?
+2016-03-30 19:51:04 : SMS message: Me -> Katie Akers (8125540357) : They are ok
+2016-03-30 19:51:23 : SMS message: Me -> Katie Akers (8125540357) : Have not had them in awhile 
+2016-03-30 19:51:25 : SMS message: Katie Akers -> Me (8125540357) : So not ur favorite huh
+2016-03-30 20:06:23 : SMS message: Katie Akers -> Me (8125540357) :  Will have to talk later tonight. Going mexi with friends. Wish I wasn't because I don't want to blow my good eating
+2016-03-30 20:56:38 : SMS message: Me -> Katie Akers (8125540357) : Ok
+2016-03-30 21:37:30 : SMS message: Me -> Katie Akers (8125540357) : Be strong, btw
+2016-03-30 22:04:26 : SMS message: Katie Akers -> Me (8125540357) : I was strong...  Salad and no chips
+2016-03-30 22:17:35 : SMS message: Me -> Katie Akers (8125540357) : Good- I am proud of you- will give you a reward tomorrow.  ☺
+2016-03-30 22:19:35 : SMS message: Katie Akers -> Me (8125540357) : Maybe u could give me some good protein 
+2016-03-30 22:33:47 : SMS message: Me -> Katie Akers (8125540357) : You can get it straight from the tap.
+2016-03-30 22:34:14 : SMS message: Me -> Katie Akers (8125540357) : I figured I would follow your lead and eat a zero calorie meal tomorrow night 
+2016-03-30 22:40:49 : SMS message: Katie Akers -> Me (8125540357) : Maybe zero calorie dessert since I'm making dinner for you❤️
+2016-03-31 00:50:48 : SMS message: Katie Akers -> Me (8125540357) : Hey u I'm getting ready to go to bed. 
+2016-03-31 01:07:27 : SMS message: Me -> Katie Akers (8125540357) : Ok- kids are brushing their teeth.
+2016-03-31 01:07:49 : SMS message: Me -> Katie Akers (8125540357) : I will check to see if you are up when I am done...
+2016-03-31 01:08:00 : SMS message: Me -> Katie Akers (8125540357) : If not, sweet dreams, Katie!
+2016-03-31 01:08:07 : SMS message: Me -> Katie Akers (8125540357) : Love you.
+2016-03-31 01:44:11 : SMS message: Me -> Katie Akers (8125540357) : I don't suppose you are still up?
+2016-03-31 10:39:30 : SMS message: Me -> Katie Akers (8125540357) : Morning!  Excited that I get to see you tonight!
+2016-03-31 10:45:26 : SMS message: Katie Akers -> Me (8125540357) : Yes good morning.... I am praying my day flies. Missed talking last night.
+2016-03-31 11:02:49 : SMS message: Me -> Katie Akers (8125540357) : Thanks for calling me this morning- it was a nice start to my day.  ☺
+2016-03-31 11:03:12 : SMS message: Me -> Katie Akers (8125540357) : Sorry if I sounded rushed, btw- didn't mean to come across that way if I did.
+2016-03-31 11:04:56 : SMS message: Katie Akers -> Me (8125540357) : I totally understand the way you're feeling today I personally would be freaking out right now if I were you
+2016-03-31 11:05:50 : SMS message: Me -> Katie Akers (8125540357) : I am in my "pre-vacation" mode right now...  ☺
+2016-03-31 11:07:08 : SMS message: Katie Akers -> Me (8125540357) : I know and tonight don't feel like u have to entertain. I will make
+2016-03-31 11:07:09 : SMS message: Katie Akers -> Me (8125540357) :  supper and help u in anyway I can. Just want to spend time w u
+2016-03-31 12:44:38 : SMS message: Me -> Katie Akers (8125540357) : I am very excited to see you tonight.  It will be a long 8 days without you.
+2016-03-31 12:46:06 : SMS message: Me -> Katie Akers (8125540357) : I feel bad that you will be coming to Indy the next 5 or so weekends
+2016-03-31 12:46:19 : SMS message: Me -> Katie Akers (8125540357) : That is a lot of driving for you
+2016-03-31 13:20:18 : SMS message: Katie Akers -> Me (8125540357) : I love coming to your house
+2016-03-31 14:37:34 : SMS message: Me -> Katie Akers (8125540357) : So Clark has a cheaper and lighter 2-person hammock, now
+2016-03-31 14:37:59 : SMS message: Me -> Katie Akers (8125540357) : But it doesn't have a bug net- we could rig one, though 
+2016-03-31 15:53:19 : SMS message: Katie Akers -> Me (8125540357) : Hey hope ur day is going great. Just think I will give you  a nice massage to help you relax tonight
+2016-03-31 16:11:22 : SMS message: Me -> Katie Akers (8125540357) : It is busy, but moving along.  We might have to make a trip to Target tonight, btw
+2016-03-31 17:16:59 : SMS message: Katie Akers -> Me (8125540357) : Anything u need to do is fine!!! Can't u see I just want to spend time w me
+2016-03-31 19:49:42 : SMS message: Katie Akers -> Me (8125540357) : I just left school have to run homethen I will be on my way
+2016-03-31 19:51:17 : SMS message: Me -> Katie Akers (8125540357) : Ok- will see you when you get here!  
+2016-04-01 15:25:53 : SMS message: Me -> Katie Akers (8125540357) : Hey- thank you *so* much for helping me out last night and today.  I can't tell you how much you mean to me and how happy I am when you are around- you are awesome and I love you so much!
+2016-04-01 16:03:12 : SMS message: Katie Akers -> Me (8125540357) : I feel the same way about you. I love being around you. I love you 
+2016-04-01 16:03:12 : SMS message: Katie Akers -> Me (8125540357) : so much sometimes it makes my heart hurt☺️in a very good way of cou
+2016-04-01 16:03:12 : SMS message: Katie Akers -> Me (8125540357) : rse
+2016-04-01 17:29:00 : SMS message: Katie Akers -> Me (8125540357) : Looks like you are progressing nicely. I just shopped at Meijers it was nice and not too expensive lots of fresh vegetables
+2016-04-01 17:35:10 : SMS message: Me -> Katie Akers (8125540357) : In some traffic just before Louisville 
+2016-04-01 17:36:00 : SMS message: Katie Akers -> Me (8125540357) : Well drive safe call me tonight if you can
+2016-04-01 17:42:02 : SMS message: Me -> Katie Akers (8125540357) : Will do 
+2016-04-01 18:17:19 : SMS message: Katie Akers -> Me (8125540357) : Well I'm home. Thinking about a nap. The dogs were very happy to se
+2016-04-01 18:17:42 : SMS message: Katie Akers -> Me (8125540357) : e me
+2016-04-01 19:52:23 : SMS message: Me -> Katie Akers (8125540357) : I am near the KY-TN border
+2016-04-01 19:53:26 : SMS message: Katie Akers -> Me (8125540357) : I see!!!   You're getting there
+2016-04-01 21:06:33 : SMS message: Katie Akers -> Me (8125540357) : Wow looks like you made it through Nashville yeah 
+2016-04-01 22:31:20 : SMS message: Me -> Katie Akers (8125540357) : Hey- Stopped about 40 miles outside Chattanooga for supper. Going to try to make it to Atlanta tonight
+2016-04-01 22:34:56 : SMS message: Katie Akers -> Me (8125540357) : I have been out of my mom and dad's getting my kayak how are you doing
+2016-04-01 22:35:48 : SMS message: Katie Akers -> Me (8125540357) : I think Chattanooga is only 81 miles from Atlanta
+2016-04-01 22:37:25 : SMS message: Me -> Katie Akers (8125540357) : Yes- not far.  About to hit the road and knock out the last bit.
+2016-04-01 22:40:26 : SMS message: Katie Akers -> Me (8125540357) : It won't be long
+2016-04-02 00:03:38 : SMS message: Katie Akers -> Me (8125540357) : So call me once u guys are settled. I will be up. xoxoxo
+2016-04-02 00:20:59 : SMS message: Katie Akers -> Me (8125540357) : Look at u on highway 41
+2016-04-02 00:24:11 : SMS message: Me -> Katie Akers (8125540357) : Yes- hotels are selling out
+2016-04-02 00:24:20 : SMS message: Me -> Katie Akers (8125540357) : I think I might have one, though
+2016-04-02 00:24:36 : SMS message: Katie Akers -> Me (8125540357) : Oh no
+2016-04-02 00:25:10 : SMS message: Me -> Katie Akers (8125540357) : Will be alright.  This place doesn't look too full yet- plus, it is off the interstate. 
+2016-04-02 00:29:35 : SMS message: Katie Akers -> Me (8125540357) : Fingers crossed 
+2016-04-02 00:50:35 : SMS message: Me -> Katie Akers (8125540357) : I just *barely* got a room 
+2016-04-02 00:51:12 : SMS message: Katie Akers -> Me (8125540357) : Good. It was hard for us when we were there 
+2016-04-02 01:31:58 : SMS message: Katie Akers -> Me (8125540357) : It was so good to talk to you. Happy you made it there safe and sound. Love you so much
+2016-04-02 01:39:43 : SMS message: Me -> Katie Akers (8125540357) : Good night! Love you, too!
+2016-04-02 11:34:41 : SMS message: Katie Akers -> Me (8125540357) : Good morning sunshine. Hope u had a good rest and are ready for your day. Getting syd up to start our prom dress adventure
+2016-04-02 11:55:14 : SMS message: Me -> Katie Akers (8125540357) : Morning, babe!  Getting stuff packed up- going to head downstairs for breakfast soon and hit the road
+2016-04-02 11:55:21 : SMS message: Me -> Katie Akers (8125540357) : What are you doing today?
+2016-04-02 12:11:34 : SMS message: Katie Akers -> Me (8125540357) : Going prom dress shopping
+2016-04-02 12:21:36 : SMS message: Me -> Katie Akers (8125540357) : Duh, I'm an idiot.  
+2016-04-02 12:21:57 : SMS message: Me -> Katie Akers (8125540357) : Have fun today- will be thinking about you...  ☺
+2016-04-02 12:25:08 : SMS message: Katie Akers -> Me (8125540357) : Drive safe always thinking of you
+2016-04-02 13:53:46 : SMS message: Me -> Katie Akers (8125540357) : Google is routine me around I75 again 
+2016-04-02 13:53:53 : SMS message: Me -> Katie Akers (8125540357) : *routing
+2016-04-02 13:54:36 : SMS message: Katie Akers -> Me (8125540357) :   I'm not surprised everyone is going to Florida right now
+2016-04-02 16:52:15 : SMS message: Me -> Katie Akers (8125540357) : Stopped for lunch- about 40 mi to Florida 
+2016-04-02 16:52:45 : SMS message: Me -> Katie Akers (8125540357) : How is dress shopping going?  Did you find what you wanted in Terra Haute? 
+2016-04-02 16:58:20 : SMS message: Katie Akers -> Me (8125540357) : Great on the driving. And we bought a dress. I will send u a pic. Having lunch at a Thai place
+2016-04-02 16:59:50 : SMS message: Me -> Katie Akers (8125540357) : Nice!  Looks great! 
+2016-04-02 17:00:01 : SMS message: Me -> Katie Akers (8125540357) : Are you in indy? 
+2016-04-02 17:02:42 : SMS message: Katie Akers -> Me (8125540357) : Yes I think. I think maybe on the eastern side
+2016-04-02 17:03:10 : SMS message: Katie Akers -> Me (8125540357) : Between the airport and speedway
+2016-04-02 17:09:09 : SMS message: Katie Akers -> Me (8125540357) : Has your drive been easy? Kids good?
+2016-04-02 17:12:15 : SMS message: Me -> Katie Akers (8125540357) : Kids have been awesome
+2016-04-02 17:17:45 : SMS message: Me -> Katie Akers (8125540357) : We saw our first palm tree of the trip
+2016-04-02 17:18:37 : SMS message: Katie Akers -> Me (8125540357) : Poor Dylan. Do u get some kind of bread w Thai food
+2016-04-02 17:23:11 : SMS message: Me -> Katie Akers (8125540357) : I don't recall getting any at the last place.
+2016-04-02 17:23:22 : SMS message: Me -> Katie Akers (8125540357) : But the last place I went to wasn't that good
+2016-04-02 17:23:58 : SMS message: Katie Akers -> Me (8125540357) : Okay not sure. There is a really good place in terre haute this place doesn't look all that good
+2016-04-02 20:25:26 : SMS message: Me -> Katie Akers (8125540357) : Just made our last stop- should arrive around 6pm
+2016-04-02 20:29:40 : SMS message: Katie Akers -> Me (8125540357) : Good. We are home laying around.  Syd has to work tonight and I think I will go to school to get some stuff done
+2016-04-02 21:53:09 : SMS message: Katie Akers -> Me (8125540357) : Are you still sitting in traffic
+2016-04-02 22:41:49 : SMS message: Me -> Katie Akers (8125540357) : Finally made it.  Going to head to the pool and collapse...  ☺ 
+2016-04-02 22:56:56 : SMS message: Katie Akers -> Me (8125540357) : Okay call tonight if you can. Happy u made it
+2016-04-02 23:56:15 : SMS message: Katie Akers -> Me (8125540357) : Plans made papers copied I'm already for next week yeah me
+2016-04-02 23:56:26 : SMS message: Katie Akers -> Me (8125540357) : All ready
+2016-04-03 00:21:30 : SMS message: Me -> Katie Akers (8125540357) : Can I call you in 15 min?
+2016-04-03 00:25:14 : SMS message: Katie Akers -> Me (8125540357) : Yes
+2016-04-03 02:11:17 : SMS message: Katie Akers -> Me (8125540357) : Going to bed. Love u... I know you are going to have a great day tomorrow. Make some fantastic memories.
+2016-04-03 02:13:04 : SMS message: Me -> Katie Akers (8125540357) : I am not far behind you- I am pretty pooped tonight
+2016-04-03 02:13:15 : SMS message: Me -> Katie Akers (8125540357) : Love you too, babe!
+2016-04-03 11:52:50 : SMS message: Me -> Katie Akers (8125540357) : Good morning!  Hope you have a fantastic day today! 
+2016-04-03 11:54:09 : SMS message: Katie Akers -> Me (8125540357) : I hope u do too... One more day until take off
+2016-04-03 11:54:34 : SMS message: Me -> Katie Akers (8125540357) : I know- should be a good day today.  Weather looks great. 
+2016-04-03 11:55:55 : SMS message: Katie Akers -> Me (8125540357) : Good. Tiny cat has been missing since Thursday. Heard her crying in the neighbors garage happy I found her
+2016-04-03 11:58:53 : SMS message: Katie Akers -> Me (8125540357) : This morning
+2016-04-03 12:01:42 : SMS message: Me -> Katie Akers (8125540357) : That's good you found her- was she happy to see you?
+2016-04-03 12:02:19 : SMS message: Katie Akers -> Me (8125540357) : Won't be able to talk after today. That will be weird. Missing u already. But know you are having a good time and making great memories with your kids. 
+2016-04-03 12:03:25 : SMS message: Katie Akers -> Me (8125540357) : Yes very happy she was back home. It was really a flick I found her. She must have heard the door open and started crying really loud she is normally really quiet meow
+2016-04-03 12:03:43 : SMS message: Katie Akers -> Me (8125540357) : Hey lost 4.5 this week Hudson lost 8
+2016-04-03 12:07:24 : SMS message: Me -> Katie Akers (8125540357) : Wow!  Awesome job!
+2016-04-03 12:07:48 : SMS message: Me -> Katie Akers (8125540357) : And yes, will be weird to not talk to you every day
+2016-04-03 15:37:48 : SMS message: Katie Akers -> Me (8125540357) : Fun looks like a nice day. I'm at James we are going to eat German food. Should be interesting then a hike
+2016-04-03 16:49:03 : SMS message: Me -> Katie Akers (8125540357) : What is the weather like today?
+2016-04-03 19:08:21 : SMS message: Me -> Katie Akers (8125540357) : Wow- what is that?
+2016-04-03 19:09:07 : SMS message: Katie Akers -> Me (8125540357) : Monastery in Ferdinand 
+2016-04-03 19:09:45 : SMS message: Me -> Katie Akers (8125540357) : Nice!  Looks like a neat place.  I am jealous that you got a convertible ride
+2016-04-03 19:09:58 : SMS message: Me -> Katie Akers (8125540357) : Makes me want to get one
+2016-04-03 19:10:35 : SMS message: Katie Akers -> Me (8125540357) : Was telling James u wanted one
+2016-04-03 19:11:33 : SMS message: Me -> Katie Akers (8125540357) : Glad you got outside today.  
+2016-04-03 19:30:39 : SMS message: Katie Akers -> Me (8125540357) : Me too
+2016-04-03 20:14:42 : SMS message: Katie Akers -> Me (8125540357) : At lincoln state park hiking
+2016-04-03 22:03:24 : SMS message: Me -> Katie Akers (8125540357) : Whew- Vacation Day 1 complete.  Supper and pool time at the hotel
+2016-04-03 22:06:06 : SMS message: Katie Akers -> Me (8125540357) : Nice
+2016-04-03 22:27:17 : SMS message: Me -> Katie Akers (8125540357) : Ok- we just sat down for supper.  Should be back at the hotel around 8.
+2016-04-03 22:27:43 : SMS message: Me -> Katie Akers (8125540357) : Have I told you how cute you are, btw?
+2016-04-03 22:27:59 : SMS message: Katie Akers -> Me (8125540357) : Thanks
+2016-04-03 23:29:03 : SMS message: Katie Akers -> Me (8125540357) : On my way home
+2016-04-04 00:34:55 : SMS message: Katie Akers -> Me (8125540357) : I can't wait to talk to you tonight
+2016-04-04 00:35:44 : SMS message: Me -> Katie Akers (8125540357) : I am back in the room- can talk whenever
+2016-04-04 00:35:57 : SMS message: Katie Akers -> Me (8125540357) : How about now
+2016-04-04 02:18:55 : SMS message: Katie Akers -> Me (8125540357) : All food made for the week. Sweet dreams sweet man. Love u
+2016-04-04 10:21:49 : SMS message: Katie Akers -> Me (8125540357) : Bon voyage!! Have a great time. See you in a week!
+2016-04-04 11:55:56 : SMS message: Me -> Katie Akers (8125540357) : Thanks! I just got up- starting to get things packed up
+2016-04-04 15:19:06 : SMS message: Katie Akers -> Me (8125540357) : Almost time!!! My day is going good. We start track tonight so that's exciting
+2016-04-04 16:03:39 : SMS message: Me -> Katie Akers (8125540357) : Awesome!  Has Hayden been behaving himself?
+2016-04-04 16:04:36 : SMS message: Me -> Katie Akers (8125540357) : We are eating at Subway in Cocoa Beach.  Dylan's stomach problems came back a bit this morning. Hopefully he gets better as the day goes on.
+2016-04-04 17:19:36 : SMS message: Katie Akers -> Me (8125540357) : I hope he is feeling better. U should be boarding now. Miss u so mu
+2016-04-04 17:19:36 : SMS message: Katie Akers -> Me (8125540357) : ch already. Have a great time. Be good like don't lay around in you
+2016-04-04 17:19:37 : SMS message: Katie Akers -> Me (8125540357) : r thong trying to pick up hot moms love u.
+2016-04-04 17:42:59 : SMS message: Me -> Katie Akers (8125540357) : Damn! I forgot my thong! 
+2016-04-04 17:54:15 : SMS message: Katie Akers -> Me (8125540357) : Beautiful
+2016-04-04 19:01:19 : SMS message: Katie Akers -> Me (8125540357) : Before u are gone send one more picture of u
+2016-04-04 19:05:03 : SMS message: Me -> Katie Akers (8125540357) : Can I call you?
+2016-04-04 19:05:20 : SMS message: Katie Akers -> Me (8125540357) : In about 2 min
+2016-04-04 19:06:40 : SMS message: Katie Akers -> Me (8125540357) :  Yes 
+2016-04-04 19:06:57 : SMS message: Katie Akers -> Me (8125540357) : Can now
+2016-04-08 10:11:03 : SMS message: Katie Akers -> Me (8125540357) : Do you have any idea how much I miss you. I can't wait to talk to you tomorrow night
+2016-04-08 10:15:56 : SMS message: Me -> Katie Akers (8125540357) : I made it!   Have to get out of the room by 8 am, though- will call you tonight. 
+2016-04-08 10:16:20 : SMS message: Me -> Katie Akers (8125540357) : Have missed you- can't wait to talk to you tonight!  Love you! 
+2016-04-08 10:17:08 : SMS message: Katie Akers -> Me (8125540357) :  so happy you are back. Can't wait to hear about your adven
+2016-04-08 10:17:08 : SMS message: Katie Akers -> Me (8125540357) : tures. Love u so much.
+2016-04-08 10:30:44 : SMS message: Katie Akers -> Me (8125540357) : Beautiful. I'm sitting up here by a fire. Freeze warnings. So enjoy the warmth.
+2016-04-08 10:37:40 : SMS message: Katie Akers -> Me (8125540357) : If u have time and me a picture of u... I want to see you☺️
+2016-04-08 11:33:25 : SMS message: Katie Akers -> Me (8125540357) : Love it!!! Thanks talk to u soon
+2016-04-08 11:38:19 : SMS message: Me -> Katie Akers (8125540357) : So good to see you again, beautiful!
+2016-04-08 11:52:12 : SMS message: Katie Akers -> Me (8125540357) : Goofy picture
+2016-04-08 11:54:08 : SMS message: Katie Akers -> Me (8125540357) : You looks so nice and tan
+2016-04-08 15:23:26 : SMS message: Katie Akers -> Me (8125540357) : How is the driving
+2016-04-08 15:55:15 : SMS message: Me -> Katie Akers (8125540357) : So far so good- about to leave Florida 
+2016-04-08 15:55:35 : SMS message: Me -> Katie Akers (8125540357) : Going to try to get to Knoxville tonight
+2016-04-08 16:15:02 : SMS message: Katie Akers -> Me (8125540357) : I see that... I'm tracking u.... Hope u get far today so u will have a shorter time tomorrow
+2016-04-08 17:20:10 : SMS message: Me -> Katie Akers (8125540357) : I think Knoxville would mean 5-6 hours tomorrow
+2016-04-08 20:14:07 : SMS message: Katie Akers -> Me (8125540357) : Done for the day. Everything ready for Monday
+2016-04-08 20:15:20 : SMS message: Katie Akers -> Me (8125540357) : Look at you Goering a fancy way home
+2016-04-08 20:15:57 : SMS message: Me -> Katie Akers (8125540357) : Stuck in traffic right now
+2016-04-08 20:16:17 : SMS message: Katie Akers -> Me (8125540357) : Has your day been pretty long
+2016-04-08 20:16:59 : SMS message: Me -> Katie Akers (8125540357) : Kind of.  Going to try to knock out this last bit in one shot. 
+2016-04-08 20:17:12 : SMS message: Me -> Katie Akers (8125540357) : Just got gas. 
+2016-04-08 20:17:23 : SMS message: Katie Akers -> Me (8125540357) : What time do you think you'll get to Knoxville
+2016-04-08 20:17:43 : SMS message: Me -> Katie Akers (8125540357) : 8:31pm
+2016-04-08 20:19:27 : SMS message: Katie Akers -> Me (8125540357) : Not too bad. Sydney and I are going to go out and love some baby sheep I think
+2016-04-09 00:23:38 : SMS message: Me -> Katie Akers (8125540357) : Nice!  I just rolled into town.  Getting supper and taking it to the hotel.
+2016-04-09 00:24:18 : SMS message: Katie Akers -> Me (8125540357) : Ugh been a really long day for you
+2016-04-09 00:24:40 : SMS message: Me -> Katie Akers (8125540357) : Yes, should be a shorter drive home tomorrow, though.
+2016-04-09 00:25:15 : SMS message: Katie Akers -> Me (8125540357) : I'm checking out Rei for lighter gear
+2016-04-09 00:35:42 : SMS message: Me -> Katie Akers (8125540357) : Have to get home to see my lovergirl 
+2016-04-09 00:36:12 : SMS message: Katie Akers -> Me (8125540357) : I can't wait to see u
+2016-04-09 00:36:48 : SMS message: Katie Akers -> Me (8125540357) : Just want to kiss u and see your smile
+2016-04-09 01:08:10 : SMS message: Me -> Katie Akers (8125540357) : Can I call you in 5?
+2016-04-09 01:14:41 : SMS message: Me -> Katie Akers (8125540357) : You still awake?
+2016-04-09 11:41:27 : SMS message: Katie Akers -> Me (8125540357) : Good morning!!! Wow I slept in. Drive safe today. Love u
+2016-04-09 12:04:29 : SMS message: Me -> Katie Akers (8125540357) : Morning!  Kids are not wanting to get moving this morning.
+2016-04-09 12:04:55 : SMS message: Katie Akers -> Me (8125540357) : I wasn't either. Beautiful day though.
+2016-04-09 12:05:10 : SMS message: Me -> Katie Akers (8125540357) : And Kelsey's hair is a mess- not sure if she forgot to wash the shampoo out or if she forgot to use it altogether
+2016-04-09 12:05:19 : SMS message: Me -> Katie Akers (8125540357) : It is all crusty 
+2016-04-09 12:05:52 : SMS message: Katie Akers -> Me (8125540357) : Oh yuck!!! Throw her in the shower. Maybe chlorine from the pool
+2016-04-09 12:15:17 : SMS message: Me -> Katie Akers (8125540357) : She took one last night, but making her take another
+2016-04-09 12:16:30 : SMS message: Katie Akers -> Me (8125540357) : I'm still checking out Rei.... We need to go on a backpacking trip in the next couple months... So busy though
+2016-04-09 12:17:16 : SMS message: Me -> Katie Akers (8125540357) : Yes- driving through the mountains was giving me the itch ☺
+2016-04-09 12:17:37 : SMS message: Katie Akers -> Me (8125540357) : I know... I have the itch right now too
+2016-04-09 14:10:28 : SMS message: Me -> Katie Akers (8125540357) : Stuck in traffic at the rocks slide
+2016-04-09 14:14:06 : SMS message: Katie Akers -> Me (8125540357) : Oh no!!! The stops are never ending
+2016-04-09 14:14:17 : SMS message: Katie Akers -> Me (8125540357) : I'm getting ready for the track meet
+2016-04-09 14:17:22 : SMS message: Me -> Katie Akers (8125540357) : I think this should be the last one
+2016-04-09 14:24:12 : SMS message: Katie Akers -> Me (8125540357) : That's good and I think I'm going to leave when you're between Cincinnati and Indianapolis
+2016-04-09 18:14:48 : SMS message: Me -> Katie Akers (8125540357) : Yes- been spitting snow all day.  Stopped in Batesville to swing through a drive thru
+2016-04-09 18:31:01 : SMS message: Katie Akers -> Me (8125540357) : Hey I bought stuff for dinner tonight. Something easy. That way u don't have to go back out. Think that is okay?
+2016-04-09 18:31:45 : SMS message: Me -> Katie Akers (8125540357) : Sure
+2016-04-09 18:42:24 : SMS message: Katie Akers -> Me (8125540357) : Hey u are almost home
+2016-04-09 19:08:45 : SMS message: Me -> Katie Akers (8125540357) : 25 min
+2016-04-09 19:38:27 : SMS message: Me -> Katie Akers (8125540357) : And home...
+2016-04-09 19:38:45 : SMS message: Me -> Katie Akers (8125540357) : Do we have time to go get the cat before you get here?
+2016-04-09 19:39:04 : SMS message: Katie Akers -> Me (8125540357) : Oh yeah I just now left I'm only about 15 miles away from home
+2016-04-11 10:45:08 : SMS message: Me -> Katie Akers (8125540357) : Hope you know how much I love and appreciate you- coming home from vacation and going back to work is always a bummer but was actually looking forward to coming back because I knew you were going to be here.  
+2016-04-11 10:45:24 : SMS message: Me -> Katie Akers (8125540357) : Thanks for all your help thus weekend, too.
+2016-04-11 11:01:49 : SMS message: Katie Akers -> Me (8125540357) : I'm going to be honest and say I can't wait until the day I can be with youall the time. I love that we can talk and be ourselves. Our relationship feels like it's the most natural thing. I love you
+2016-04-11 11:58:27 : SMS message: Katie Akers -> Me (8125540357) : I made it home safe and sound. Love you have a good day back
+2016-04-11 12:52:33 : SMS message: Me -> Katie Akers (8125540357) : Did you get Sydney to school on time?
+2016-04-11 12:54:19 : SMS message: Katie Akers -> Me (8125540357) : Yes got here in time
+2016-04-11 13:32:00 : SMS message: Me -> Katie Akers (8125540357) : Good!  I was wondering if you'd have time to drop her off and get to work by 8
+2016-04-11 13:42:41 : SMS message: Katie Akers -> Me (8125540357) : That's funny
+2016-04-11 13:43:42 : SMS message: Me -> Katie Akers (8125540357) : The software I am trying to get work is called pgPool, so that is why they have PG all over it
+2016-04-11 13:44:40 : SMS message: Katie Akers -> Me (8125540357) : That explains some:) I hope u beat it today
+2016-04-11 13:46:04 : SMS message: Katie Akers -> Me (8125540357) : Hey they are not spending the night
+2016-04-11 14:00:25 : SMS message: Me -> Katie Akers (8125540357) : They?  Eva and Ben? 
+2016-04-11 14:10:26 : SMS message: Katie Akers -> Me (8125540357) : Yes she just said they have to get Micah soooo we will be alone 
+2016-04-11 14:11:22 : SMS message: Me -> Katie Akers (8125540357) : ☺
+2016-04-11 14:11:31 : SMS message: Me -> Katie Akers (8125540357) : Are they still going to the show?
+2016-04-11 14:11:50 : SMS message: Katie Akers -> Me (8125540357) : Yes and to eat
+2016-04-11 16:08:37 : SMS message: Katie Akers -> Me (8125540357) : Track is cancelled tonight sooooo happy
+2016-04-11 16:53:13 : SMS message: Me -> Katie Akers (8125540357) : Good- you can get some down time tonight
+2016-04-11 16:53:47 : SMS message: Katie Akers -> Me (8125540357) : Yes but I was very relaxed w u. I think I'm getting a cold
+2016-04-11 20:52:40 : SMS message: Me -> Katie Akers (8125540357) : I am going to call you at 5- that ok?
+2016-04-11 20:52:52 : SMS message: Me -> Katie Akers (8125540357) : I can call later if not, btw.
+2016-04-11 20:55:44 : SMS message: Katie Akers -> Me (8125540357) : Yes call
+2016-04-11 21:03:56 : SMS message: Katie Akers -> Me (8125540357) : Yes I would love to talk when ur done
+2016-04-11 23:22:25 : SMS message: Katie Akers -> Me (8125540357) : That is funny
+2016-04-11 23:29:08 : SMS message: Me -> Katie Akers (8125540357) : Can I tell you how horny I have been all day thinking about you?
+2016-04-11 23:30:22 : SMS message: Katie Akers -> Me (8125540357) : Well this Friday we will be alone..::
+2016-04-11 23:30:43 : SMS message: Me -> Katie Akers (8125540357) : Yes- we will
+2016-04-11 23:31:00 : SMS message: Me -> Katie Akers (8125540357) : I have been thinking about how good your pussy tastes
+2016-04-11 23:31:04 : SMS message: Katie Akers -> Me (8125540357) : Sooo excited thinking about it
+2016-04-11 23:31:26 : SMS message: Katie Akers -> Me (8125540357) : Mm. I'm going to let u eat it.
+2016-04-11 23:31:55 : SMS message: Me -> Katie Akers (8125540357) : I want to see you writhe with pleasure
+2016-04-11 23:33:01 : SMS message: Katie Akers -> Me (8125540357) : I am sure u will on Friday and after I do I will let me fuck
+2016-04-11 23:34:38 : SMS message: Me -> Katie Akers (8125540357) : I can't wait.  I am going to be horny all week
+2016-04-11 23:48:51 : SMS message: Katie Akers -> Me (8125540357) : I am going to make u feel so good
+2016-04-12 00:10:27 : SMS message: Katie Akers -> Me (8125540357) : So cancel the wedding in May.... Looks like we aren't going.... I will tell u about it when we talk.
+2016-04-12 00:11:09 : SMS message: Me -> Katie Akers (8125540357) : Oh- ok.  Hope it's nothing too bad
+2016-04-12 00:11:44 : SMS message: Katie Akers -> Me (8125540357) : Nope it is okay
+2016-04-12 00:14:03 : SMS message: Me -> Katie Akers (8125540357) : That's good.
+2016-04-12 00:14:33 : SMS message: Me -> Katie Akers (8125540357) : You want me to go to brown county that weekend?
+2016-04-12 00:14:52 : SMS message: Katie Akers -> Me (8125540357) : YES!!!
+2016-04-12 00:32:43 : SMS message: Me -> Katie Akers (8125540357) : Ok- will put that on the calendar 
+2016-04-12 00:35:10 : SMS message: Katie Akers -> Me (8125540357) : Good that will be a fun weekend. 
+2016-04-12 01:05:58 : SMS message: Katie Akers -> Me (8125540357) : Good night lover. Love u sooooo much
+2016-04-12 01:07:13 : SMS message: Me -> Katie Akers (8125540357) : Good night, babe! Sweet dreams!
+2016-04-12 01:07:30 : SMS message: Katie Akers -> Me (8125540357) : Sweet dreams to u
+2016-04-12 10:20:07 : SMS message: Katie Akers -> Me (8125540357) : Good morning sweet man. Hope you have a great day
+2016-04-12 10:50:30 : SMS message: Me -> Katie Akers (8125540357) : Morning, sexy!  You were the first thing on my mind this morning when I woke up- can't wait to see you Friday night
+2016-04-12 10:52:16 : SMS message: Katie Akers -> Me (8125540357) : I know he can't get here soon enough
+2016-04-12 10:52:44 : SMS message: Katie Akers -> Me (8125540357) : It's pretty exciting thinking about hanging out with you all weekend
+2016-04-12 15:28:41 : SMS message: Katie Akers -> Me (8125540357) : Hey how is ur day
+2016-04-12 15:30:43 : SMS message: Me -> Katie Akers (8125540357) : Going well- how is your day going? 
+2016-04-12 15:31:16 : SMS message: Katie Akers -> Me (8125540357) : Good... Kind of long
+2016-04-12 15:41:16 : SMS message: Me -> Katie Akers (8125540357) : Yes- going to try to mow tonight when Crystal takes the kids to supper
+2016-04-12 15:44:03 : SMS message: Me -> Katie Akers (8125540357) : You have track tonight?
+2016-04-12 15:45:22 : SMS message: Katie Akers -> Me (8125540357) : Yes we will have practice and syd has a meet so long night at the track
+2016-04-12 15:45:55 : SMS message: Me -> Katie Akers (8125540357) : Do you wear a special coach outfit? 
+2016-04-12 15:46:05 : SMS message: Me -> Katie Akers (8125540357) : And have a whistle?  ☺
+2016-04-12 15:46:16 : SMS message: Katie Akers -> Me (8125540357) : No no special outfit :-)
+2016-04-12 19:12:35 : SMS message: Katie Akers -> Me (8125540357) : Well I'm done for the day at least with school
+2016-04-12 19:13:16 : SMS message: Me -> Katie Akers (8125540357) : Are you going to be at practice at 5?
+2016-04-12 19:13:21 : SMS message: Me -> Katie Akers (8125540357) : Glad you are done
+2016-04-12 19:15:24 : SMS message: Katie Akers -> Me (8125540357) : I will probably be watching Sydney at five. But I could watch her and talk to you all at the same time
+2016-04-12 19:16:11 : SMS message: Me -> Katie Akers (8125540357) : Ok- Crystal is picking up the kids at 6:30, too
+2016-04-12 19:16:44 : SMS message: Katie Akers -> Me (8125540357) : That would be better
+2016-04-12 19:16:53 : SMS message: Katie Akers -> Me (8125540357) : Or whenever you get done mowing
+2016-04-12 19:35:26 : SMS message: Me -> Katie Akers (8125540357) : Ok
+2016-04-12 20:43:59 : SMS message: Me -> Katie Akers (8125540357) : There is no way I could ever do that
+2016-04-12 20:44:21 : SMS message: Katie Akers -> Me (8125540357) : Me neither
+2016-04-12 20:53:50 : SMS message: Me -> Katie Akers (8125540357) : Heading to get the kids - beautiful day out
+2016-04-12 20:56:00 : SMS message: Katie Akers -> Me (8125540357) : I thought crystal was
+2016-04-12 21:40:51 : SMS message: Me -> Katie Akers (8125540357) : Wow!  Again- I would break something doing that 
+2016-04-12 21:41:19 : SMS message: Katie Akers -> Me (8125540357) : I know!!
+2016-04-12 22:25:47 : SMS message: Me -> Katie Akers (8125540357) : Alright- thunk I am going to skip mowing tonight
+2016-04-12 22:26:01 : SMS message: Katie Akers -> Me (8125540357) : I'm home alone
+2016-04-12 22:26:18 : SMS message: Me -> Katie Akers (8125540357) : Call you in 5 min
+2016-04-12 22:26:26 : SMS message: Katie Akers -> Me (8125540357) : Sure
+2016-04-12 23:44:56 : SMS message: Me -> Katie Akers (8125540357) : Have I told you that I have been horny this week?
+2016-04-12 23:45:27 : SMS message: Me -> Katie Akers (8125540357) : I have been listening to that sex expert podcast- has not been helping 
+2016-04-12 23:45:32 : SMS message: Katie Akers -> Me (8125540357) : Yes u have. Still suffering from it
+2016-04-12 23:45:59 : SMS message: Me -> Katie Akers (8125540357) : I wouldn't say suffering- I love being horny 
+2016-04-12 23:46:01 : SMS message: Katie Akers -> Me (8125540357) : I'm going to have to have to hear it
+2016-04-12 23:46:32 : SMS message: Me -> Katie Akers (8125540357) : I am listening to one on the psychology of kink right now
+2016-04-12 23:47:05 : SMS message: Katie Akers -> Me (8125540357) : I do too..... Maybe I should have locked u up on Monday morning so u couldn't even think about taking care of yourself
+2016-04-12 23:47:34 : SMS message: Me -> Katie Akers (8125540357) : ☺ now I am really horny
+2016-04-12 23:48:09 : SMS message: Me -> Katie Akers (8125540357) : I would love that, btw.
+2016-04-12 23:48:19 : SMS message: Katie Akers -> Me (8125540357) : I should have that would have been fun... 
+2016-04-12 23:49:10 : SMS message: Katie Akers -> Me (8125540357) : Then made u listen to sexy pod cast and watch porn knowing u couldn't touch yourself
+2016-04-12 23:49:12 : SMS message: Me -> Katie Akers (8125540357) : Then you could make me earn my release when you get here
+2016-04-12 23:49:27 : SMS message: Me -> Katie Akers (8125540357) : I love being teased
+2016-04-12 23:49:34 : SMS message: Katie Akers -> Me (8125540357) : Ah... I like that idea
+2016-04-12 23:50:09 : SMS message: Me -> Katie Akers (8125540357) : Will have to show you how to "edge" (not as bad as it sounds)
+2016-04-12 23:50:32 : SMS message: Katie Akers -> Me (8125540357) : I have never heard of that
+2016-04-12 23:51:05 : SMS message: Me -> Katie Akers (8125540357) : Basically it is getting me almost to orgasm (the edge), stopping, and starting over.
+2016-04-12 23:51:14 : SMS message: Me -> Katie Akers (8125540357) : Then just do that over and over again
+2016-04-12 23:51:58 : SMS message: Katie Akers -> Me (8125540357) : You would like that
+2016-04-12 23:52:12 : SMS message: Me -> Katie Akers (8125540357) : Absolutely!  
+2016-04-12 23:52:23 : SMS message: Me -> Katie Akers (8125540357) : I love being teased, and denied
+2016-04-12 23:52:35 : SMS message: Me -> Katie Akers (8125540357) : Kids are back, btw
+2016-04-12 23:53:11 : SMS message: Katie Akers -> Me (8125540357) : I need to start being a good Denier then but I like your dick ins
+2016-04-12 23:53:13 : SMS message: Katie Akers -> Me (8125540357) : ide me so much
+2016-04-12 23:53:38 : SMS message: Katie Akers -> Me (8125540357) : I guess I could let you put it in and then take it out before you come and do something else to me that sounds pretty exciting
+2016-04-12 23:56:20 : SMS message: Me -> Katie Akers (8125540357) : Hard to understand, I know, but trust me, I love it.
+2016-04-12 23:57:03 : SMS message: Me -> Katie Akers (8125540357) : And we don't have to do it all the time-
+2016-04-12 23:58:46 : SMS message: Katie Akers -> Me (8125540357) : It really sounds like a girls dream
+2016-04-12 23:59:13 : SMS message: Me -> Katie Akers (8125540357) : Why do you say that?
+2016-04-13 00:00:35 : SMS message: Me -> Katie Akers (8125540357) : I could put it on tonight, but hard to hide the keys from myself
+2016-04-13 00:02:31 : SMS message: Katie Akers -> Me (8125540357) : Well I think in most cases the girl feels like she's only there really to please the guy. And so being able to give the guy pleasure and get exactly what u want sounds great
+2016-04-13 00:02:54 : SMS message: Katie Akers -> Me (8125540357) : That is true.... On Friday put it on after work then give me the key as soon as I get there
+2016-04-13 00:04:23 : SMS message: Katie Akers -> Me (8125540357) : I mean I still have a hard time telling you what I want for the most part. I'm getting better but it's hard.
+2016-04-13 00:05:48 : SMS message: Me -> Katie Akers (8125540357) : Yes- it has been really difficult for me to open up to you about this- I have never told anyone about it before (except people that I knew were already into it)
+2016-04-13 00:06:39 : SMS message: Katie Akers -> Me (8125540357) : Well I'm happy that you did. 
+2016-04-13 00:07:23 : SMS message: Me -> Katie Akers (8125540357) : I am happy I did, too.  
+2016-04-13 00:07:49 : SMS message: Me -> Katie Akers (8125540357) : And hopefully I can bring your fantasies to life as well.
+2016-04-13 00:11:03 : SMS message: Katie Akers -> Me (8125540357) : You do and will probably let me get to know myself much better. I think once I get past my hang ups we r going to have such a great time playing w each other
+2016-04-13 00:11:24 : SMS message: Katie Akers -> Me (8125540357) : It's already fun but it will be even better
+2016-04-13 00:19:16 : SMS message: Me -> Katie Akers (8125540357) : Yes- I agree
+2016-04-13 00:23:50 : SMS message: Katie Akers -> Me (8125540357) : I love u.... You know that
+2016-04-13 00:50:21 : SMS message: Me -> Katie Akers (8125540357) : I love you, too!  I love that I found someone who is not only a wonderful girlfriend but someone who will indulge my weird sexual fantasies. ☺
+2016-04-13 00:51:00 : SMS message: Katie Akers -> Me (8125540357) : I haven't yet but I will
+2016-04-13 00:51:35 : SMS message: Me -> Katie Akers (8125540357) : Again, I think of bedroom play as dessert- I still would like intamacy and what we have been doing as well.
+2016-04-13 00:51:54 : SMS message: Katie Akers -> Me (8125540357) : 
+2016-04-13 00:52:20 : SMS message: Me -> Katie Akers (8125540357) : I think we still need regular intamacy as our "main course"
+2016-04-13 00:53:12 : SMS message: Me -> Katie Akers (8125540357) : But I guess if I give you the keys, that is up to you.  
+2016-04-13 00:53:30 : SMS message: Katie Akers -> Me (8125540357) : Yes it is!!
+2016-04-13 00:54:40 : SMS message: Me -> Katie Akers (8125540357) : I am so excited for this weekend- I want to go put it on tonight!
+2016-04-13 00:56:15 : SMS message: Katie Akers -> Me (8125540357) : Well go put it on and give me the key on Friday. I mean I don't want u being able to pleasure yourself without me
+2016-04-13 00:57:50 : SMS message: Me -> Katie Akers (8125540357) : Will do it when after the kids go to bed
+2016-04-13 00:59:50 : SMS message: Katie Akers -> Me (8125540357) : Good.... Don't take it off until I let u this weekend
+2016-04-13 01:01:53 : SMS message: Me -> Katie Akers (8125540357) : I won't 
+2016-04-13 01:02:02 : SMS message: Katie Akers -> Me (8125540357) : This weekend I'm not even going to think about letting u go until u have done exactly what u want u to do..... Have ur tongue and vibrator ready 
+2016-04-13 01:02:22 : SMS message: Me -> Katie Akers (8125540357) : Absolutely 
+2016-04-13 01:02:34 : SMS message: Katie Akers -> Me (8125540357) : 
+2016-04-13 01:03:42 : SMS message: Me -> Katie Akers (8125540357) : I am going to be so horny this week- I love it...  I will be very eager to please when you get here.
+2016-04-13 01:04:25 : SMS message: Katie Akers -> Me (8125540357) : I'm getting wet just thinking of u putting it on
+2016-04-13 01:05:29 : SMS message: Me -> Katie Akers (8125540357) : I am going to be reminded of you all day tomorrow at work
+2016-04-13 01:06:30 : SMS message: Katie Akers -> Me (8125540357) :  That's just what I want
+2016-04-13 01:07:05 : SMS message: Me -> Katie Akers (8125540357) : Every time I get horny thinking about you, it get tight on me
+2016-04-13 01:07:10 : SMS message: Me -> Katie Akers (8125540357) : *gets
+2016-04-13 01:09:07 : SMS message: Katie Akers -> Me (8125540357) : I love it
+2016-04-13 01:13:30 : SMS message: Katie Akers -> Me (8125540357) : Sweet dreams lover
+2016-04-13 01:13:59 : SMS message: Me -> Katie Akers (8125540357) : Sweet dreams, Katie!  Love you!
+2016-04-13 01:34:25 : SMS message: Me -> Katie Akers (8125540357) : It's on- you'll have to let me know what your favorite word is
+2016-04-13 10:01:08 : SMS message: Katie Akers -> Me (8125540357) : My favorite name is scout. Favorite word is peculiar. 
+Ps makes m
+2016-04-13 10:01:09 : SMS message: Katie Akers -> Me (8125540357) : e excited knowing u have it on...
+2016-04-13 10:32:37 : SMS message: Me -> Katie Akers (8125540357) : Morning, pretty lady! I hope you have a wonderful day.  I am excited for Friday...
+2016-04-13 10:38:22 : SMS message: Katie Akers -> Me (8125540357) : I hope u slept well. Don't even think about taking it off just because u have the keys. If I find out or even think that you have there will be some  repercussions on Friday.  
+2016-04-13 10:46:51 : SMS message: Katie Akers -> Me (8125540357) : ☺️
+2016-04-13 10:56:49 : SMS message: Me -> Katie Akers (8125540357) : Can I tell you that I re-read last night's conversation about 10 times before bed?
+2016-04-13 11:15:42 : SMS message: Katie Akers -> Me (8125540357) : I'm going to have so much fun with you on Friday night. You are going to do every task that I've ever wanted a man to do the but afraid to ask. And I'm going to enjoy it because that's what you're there for.
+2016-04-13 11:19:40 : SMS message: Me -> Katie Akers (8125540357) : You have no idea how happy and excited that makes me to hear you say that.  The feeling of anticipation is amazing...
+2016-04-13 12:29:39 : SMS message: Me -> Katie Akers (8125540357) : Wow- traffic sucks this morning 
+2016-04-13 12:30:11 : SMS message: Katie Akers -> Me (8125540357) : I forgot taking kids for pizza for lunch
+2016-04-13 12:30:30 : SMS message: Me -> Katie Akers (8125540357) : That should be fun
+2016-04-13 15:00:43 : SMS message: Me -> Katie Akers (8125540357) : How is your day going?
+2016-04-13 15:05:58 : SMS message: Katie Akers -> Me (8125540357) : Pretty good so far how about u
+2016-04-13 15:06:15 : SMS message: Me -> Katie Akers (8125540357) : I am having a great day
+2016-04-13 15:06:23 : SMS message: Katie Akers -> Me (8125540357) : In any discomfort
+2016-04-13 15:07:11 : SMS message: Me -> Katie Akers (8125540357) : No- not really - I have worn it before
+2016-04-13 15:08:37 : SMS message: Me -> Katie Akers (8125540357) : I do ache, but that is a different kind. 
+2016-04-13 15:10:29 : SMS message: Me -> Katie Akers (8125540357) : I am really glad that I haven't scared you away, btw.  ☺
+2016-04-13 15:48:28 : SMS message: Katie Akers -> Me (8125540357) : Scared me away?? I like to think that u are maybe freeing me a little
+2016-04-13 15:48:43 : SMS message: Katie Akers -> Me (8125540357) : Been thinking all day about Friday night
+2016-04-13 15:49:43 : SMS message: Katie Akers -> Me (8125540357) : I like knowing every time u feel that thing u are going to think about me.... 
+2016-04-13 16:08:08 : SMS message: Me -> Katie Akers (8125540357) : I have been thinking about you a lot today.
+2016-04-13 16:11:57 : SMS message: Me -> Katie Akers (8125540357) : This is really foreign for me, btw - to be in love with someone who is sexually adventurous.  It is awesome, but a bit of an adjustment for me.  I am really excited about having fun with you.  (Just wanted you to know that, in case I am coming across as nervous or different)
+2016-04-13 16:13:01 : SMS message: Me -> Katie Akers (8125540357) : And I can't tell you how much I love you!
+2016-04-13 17:46:05 : SMS message: Katie Akers -> Me (8125540357) : Hey.... You are okay right.... I absolutely don't want u to think a
+2016-04-13 17:46:05 : SMS message: Katie Akers -> Me (8125540357) : bout me any different.... If this is going to change the way u see 
+2016-04-13 17:46:05 : SMS message: Katie Akers -> Me (8125540357) : me then I don't want to do it.   I just want u to have fun with it.
+2016-04-13 17:46:06 : SMS message: Katie Akers -> Me (8125540357) :   Take it off if u want. I am not changing a thing about Friday nig
+2016-04-13 17:46:06 : SMS message: Katie Akers -> Me (8125540357) : ht though... With or without it
+2016-04-13 17:47:31 : SMS message: Me -> Katie Akers (8125540357) : No- it is awesome- just letting you know that it is new territory for me.  I am beyond excited about it.  
+2016-04-13 17:48:33 : SMS message: Me -> Katie Akers (8125540357) : And I cannot wait for Friday night.  I am about to burst at the seams thinking about it.
+2016-04-13 17:49:00 : SMS message: Me -> Katie Akers (8125540357) : Going to be the longest dinner and musical of my life. 
+2016-04-13 17:49:42 : SMS message: Katie Akers -> Me (8125540357) : Well this is even newer for me... So for both of us if we don't like something or if something is bothering us we have to say
+2016-04-13 17:50:21 : SMS message: Katie Akers -> Me (8125540357) : Well it is going to start when we get there on Friday night! 
+2016-04-13 19:09:02 : SMS message: Me -> Katie Akers (8125540357) : Are you free at 4:30 tonight?
+2016-04-13 19:13:32 : SMS message: Katie Akers -> Me (8125540357) : Probably. Leaving early are you
+2016-04-13 19:14:51 : SMS message: Katie Akers -> Me (8125540357) : So pretty out today. Track will be nice
+2016-04-13 19:15:29 : SMS message: Me -> Katie Akers (8125540357) : Yes- Dylan has his Dr. appointment tonight.
+2016-04-13 19:15:41 : SMS message: Me -> Katie Akers (8125540357) : So have to leave a little early
+2016-04-13 19:17:24 : SMS message: Katie Akers -> Me (8125540357) : Is his appointment at 4:30
+2016-04-13 19:17:36 : SMS message: Katie Akers -> Me (8125540357) : I should be mostly done
+2016-04-13 19:18:29 : SMS message: Me -> Katie Akers (8125540357) : No, 5:30
+2016-04-13 20:27:24 : SMS message: Me -> Katie Akers (8125540357) : You able to take a call in 5 min?
+2016-04-13 20:31:43 : SMS message: Katie Akers -> Me (8125540357) : Ok
+2016-04-13 21:25:06 : SMS message: Me -> Katie Akers (8125540357) : http://kutv.com/news/nation-world/hawaii-looks-to-mainland-to-deal-with-big-teacher-shortage-04-10-2016
+2016-04-13 21:25:31 : SMS message: Me -> Katie Akers (8125540357) : I can work remote - we need to do this when the kids are out of the house.  ☺
+2016-04-13 21:26:12 : SMS message: Katie Akers -> Me (8125540357) : I would love to do that
+2016-04-13 21:26:56 : SMS message: Me -> Katie Akers (8125540357) : I could get a capitan's  license and take people out on sailing tours
+2016-04-13 21:28:45 : SMS message: Katie Akers -> Me (8125540357) : I would want to be ur co captain
+2016-04-13 21:29:43 : SMS message: Me -> Katie Akers (8125540357) : Absolutely- I always though it would be cool to move there and get a job bartending or something
+2016-04-13 21:30:02 : SMS message: Katie Akers -> Me (8125540357) : It would be
+2016-04-13 21:31:39 : SMS message: Me -> Katie Akers (8125540357) : We put Hawaii on the list, right?
+2016-04-13 21:32:00 : SMS message: Katie Akers -> Me (8125540357) : Yes we did. That trail
+2016-04-13 21:32:17 : SMS message: Me -> Katie Akers (8125540357) : That's right- from the movie
+2016-04-13 21:32:25 : SMS message: Katie Akers -> Me (8125540357) : Yes
+2016-04-13 21:38:38 : SMS message: Me -> Katie Akers (8125540357) : Love it
+2016-04-13 22:02:54 : SMS message: Me -> Katie Akers (8125540357) : Who is the best dancer at a monster party?
+2016-04-13 22:03:02 : SMS message: Me -> Katie Akers (8125540357) : The boogie man
+2016-04-13 22:04:03 : SMS message: Katie Akers -> Me (8125540357) : Ur a funny guy
+2016-04-13 22:07:10 : SMS message: Me -> Katie Akers (8125540357) : Kelsey and I are reading jokes from her joke book
+2016-04-13 22:08:53 : SMS message: Katie Akers -> Me (8125540357) : Mm mm I'm reading a different kind of book right now
+2016-04-13 22:09:50 : SMS message: Me -> Katie Akers (8125540357) : Really...  is that a new book?
+2016-04-13 22:10:17 : SMS message: Katie Akers -> Me (8125540357) : Nope I guess a story I found on line
+2016-04-13 22:11:07 : SMS message: Me -> Katie Akers (8125540357) : I have read some stories online before
+2016-04-13 22:27:54 : SMS message: Katie Akers -> Me (8125540357) : Pretty good story...
+2016-04-13 22:30:51 : SMS message: Katie Akers -> Me (8125540357) : Thinking about you licking my hot wet pussy and ass until I cum.....that sounds so good right now
+2016-04-13 22:39:44 : SMS message: Me -> Katie Akers (8125540357) : I would love to bury my tounge in you
+2016-04-13 22:40:03 : SMS message: Me -> Katie Akers (8125540357) : Feeling my cock strain 
+2016-04-13 22:40:33 : SMS message: Katie Akers -> Me (8125540357) : Flick it over my clit
+2016-04-13 22:46:38 : SMS message: Me -> Katie Akers (8125540357) : I can't wait to bury my face in your pussy
+2016-04-13 22:48:31 : SMS message: Me -> Katie Akers (8125540357) : I want nothing more than to make you cum over and over again 
+2016-04-13 22:51:20 : SMS message: Katie Akers -> Me (8125540357) : So it's okay if I pleasure myself this week right
+2016-04-13 22:51:58 : SMS message: Me -> Katie Akers (8125540357) : Yes
+2016-04-13 22:52:23 : SMS message: Me -> Katie Akers (8125540357) : As long as you tell me all about it. ☺
+2016-04-13 22:54:35 : SMS message: Me -> Katie Akers (8125540357) : You are getting good at this, btw
+2016-04-13 22:54:50 : SMS message: Katie Akers -> Me (8125540357) : Okaywell after thinking about you all day I decided to come up in my room because I'm home alone and play little bit. First I just got my vibrator out and turned it on Was just kind of messing around.
+2016-04-13 22:55:31 : SMS message: Katie Akers -> Me (8125540357) : But that was a really good enough so I got my box and look for my butt plug and found it. Found some lube and inserted it really slow because I wasn't sure how is going to feel it's been a long time
+2016-04-13 22:56:35 : SMS message: Katie Akers -> Me (8125540357) : As soon as it was in I was immediately turned on I mean really turn
+2016-04-13 22:56:37 : SMS message: Katie Akers -> Me (8125540357) : ed on I barely even had to turn my vibrator on because I felt like 
+2016-04-13 22:56:44 : SMS message: Katie Akers -> Me (8125540357) : incredible I came within seconds it felt really good
+2016-04-13 22:56:44 : SMS message: Katie Akers -> Me (8125540357) : I was going to cum... The pressure in my ass and my pussy was just 
+2016-04-13 22:57:13 : SMS message: Me -> Katie Akers (8125540357) : Mmmmm.  I am so horny right now
+2016-04-13 22:57:48 : SMS message: Katie Akers -> Me (8125540357) : Yeah I was too. I forgot how nice that butt plug felt
+2016-04-13 22:59:52 : SMS message: Me -> Katie Akers (8125540357) : I would love to put my cock in your pussy right now
+2016-04-13 23:00:31 : SMS message: Katie Akers -> Me (8125540357) : It's all wet and hot. Perfect for a hard cock
+2016-04-13 23:01:14 : SMS message: Katie Akers -> Me (8125540357) : I would maybe let u put it in a couple times just to see what it felt like
+2016-04-13 23:02:18 : SMS message: Me -> Katie Akers (8125540357) : I am straining against my cage right now.
+2016-04-13 23:02:38 : SMS message: Me -> Katie Akers (8125540357) : May I open the envelope and play with myself?
+2016-04-13 23:03:22 : SMS message: Katie Akers -> Me (8125540357) : No... U can't...maybe on Friday after I have had my fun but not before
+2016-04-13 23:04:46 : SMS message: Me -> Katie Akers (8125540357) : Understood - just thought I would ask...  
+2016-04-13 23:05:06 : SMS message: Me -> Katie Akers (8125540357) : I am dripping right now
+2016-04-13 23:05:58 : SMS message: Katie Akers -> Me (8125540357) : You can drip all u want...
+2016-04-13 23:08:03 : SMS message: Me -> Katie Akers (8125540357) : I am trembling because I am so horny.  (I love it)
+2016-04-13 23:10:46 : SMS message: Katie Akers -> Me (8125540357) : Good that's how I want u
+2016-04-13 23:13:33 : SMS message: Me -> Katie Akers (8125540357) : I can't wait to kiss every place on your beautiful body
+2016-04-13 23:19:59 : SMS message: Katie Akers -> Me (8125540357) : U will on Friday...guarrentee 
+2016-04-13 23:21:30 : SMS message: Me -> Katie Akers (8125540357) : Is there anything I can do to please you before you get here on Friday? 
+2016-04-13 23:22:03 : SMS message: Katie Akers -> Me (8125540357) : I might think of something
+2016-04-13 23:28:42 : SMS message: Me -> Katie Akers (8125540357) : I will do anything to make you happy
+2016-04-13 23:34:26 : SMS message: Katie Akers -> Me (8125540357) : Like what?? 
+2016-04-13 23:36:39 : SMS message: Me -> Katie Akers (8125540357) : Rub your feet, your scalp, your back for as long as you want
+2016-04-13 23:36:53 : SMS message: Me -> Katie Akers (8125540357) : Cook you any meal you want
+2016-04-13 23:37:12 : SMS message: Me -> Katie Akers (8125540357) : Pleasure you sexually any way you want
+2016-04-13 23:37:15 : SMS message: Katie Akers -> Me (8125540357) : Oh yes on Friday... Have plans... 
+2016-04-13 23:37:34 : SMS message: Katie Akers -> Me (8125540357) : I thought u meant before Friday... 
+2016-04-13 23:37:56 : SMS message: Me -> Katie Akers (8125540357) : I could clean out the fish tank...  ☺
+2016-04-13 23:39:09 : SMS message: Katie Akers -> Me (8125540357) : Yes u could:) make sure u have bubble bath and lotion... That was first thing in my plan.... But that's all I'm going to say
+2016-04-13 23:39:56 : SMS message: Katie Akers -> Me (8125540357) : Nice picture.... 
+2016-04-13 23:39:58 : SMS message: Me -> Katie Akers (8125540357) : Absolutley 
+2016-04-13 23:40:16 : SMS message: Katie Akers -> Me (8125540357) : Two more days...
+2016-04-13 23:40:23 : SMS message: Me -> Katie Akers (8125540357) : Thanks- had to get the right lighting 
+2016-04-13 23:40:46 : SMS message: Katie Akers -> Me (8125540357) : Can't wait to see it on u... Are your balls hanging out the back
+2016-04-13 23:40:58 : SMS message: Me -> Katie Akers (8125540357) : Yes.
+2016-04-13 23:41:29 : SMS message: Katie Akers -> Me (8125540357) : Seriously can't wait... I will have all night on Friday 
+2016-04-13 23:42:15 : SMS message: Me -> Katie Akers (8125540357) : Do you want a picture?  I normally don't send dick-picks, but will if it makes you happy
+2016-04-13 23:43:38 : SMS message: Katie Akers -> Me (8125540357) : I do... I promise I will erase
+2016-04-13 23:44:38 : SMS message: Me -> Katie Akers (8125540357) : That made me really horny, too
+2016-04-13 23:45:07 : SMS message: Katie Akers -> Me (8125540357) : Wow u really fill it up
+2016-04-13 23:45:52 : SMS message: Me -> Katie Akers (8125540357) : Yes- it is pretty scape-proof.  And I basically can't touch or stroke my cock 
+2016-04-13 23:46:05 : SMS message: Katie Akers -> Me (8125540357) : Do u need to take it off to wash?
+2016-04-13 23:46:29 : SMS message: Me -> Katie Akers (8125540357) : I can get my finger down in there with soap and water
+2016-04-13 23:46:39 : SMS message: Me -> Katie Akers (8125540357) : In the shower
+2016-04-13 23:46:52 : SMS message: Katie Akers -> Me (8125540357) : Because I want u nice and clean on Friday
+2016-04-13 23:47:07 : SMS message: Me -> Katie Akers (8125540357) : And I am filling it up because I am really horny right now
+2016-04-13 23:47:38 : SMS message: Me -> Katie Akers (8125540357) : Vibrations can get me part of the way to an orgasm, but not enough- just end up more frustrated 
+2016-04-13 23:48:14 : SMS message: Me -> Katie Akers (8125540357) : I will make sure it is clean
+2016-04-13 23:53:51 : SMS message: Katie Akers -> Me (8125540357) : ☺️ I know it will be. Can't get here soon enough 
+2016-04-13 23:55:57 : SMS message: Me -> Katie Akers (8125540357) : I know.  Going to be great to spend time with you this weekend
+2016-04-13 23:57:41 : SMS message: Katie Akers -> Me (8125540357) : Now send a picture of ur face if u can
+2016-04-13 23:58:46 : SMS message: Me -> Katie Akers (8125540357) : Can I get a picture of my gorgeous girlfirend, please?
+2016-04-14 00:04:20 : SMS message: Me -> Katie Akers (8125540357) : I can't wait to kiss you
+2016-04-14 00:09:19 : SMS message: Katie Akers -> Me (8125540357) : I know I can kiss u all weekend
+2016-04-14 00:14:34 : SMS message: Me -> Katie Akers (8125540357) : I have a feeling this might be going on this weekend, too...   http://56.media.tumblr.com/e81e73038acfa601feda602323ec4d51/tumblr_o1ch8vg2ND1ty964ho1_1280.jpg
+2016-04-14 00:47:16 : SMS message: Katie Akers -> Me (8125540357) : Can't get it
+2016-04-14 00:51:33 : SMS message: Me -> Katie Akers (8125540357) : Hope you don't mind me sending you naughty pictures 
+2016-04-14 01:01:23 : SMS message: Katie Akers -> Me (8125540357) : Nope not at all
+2016-04-14 01:01:47 : SMS message: Katie Akers -> Me (8125540357) : Oh my..... I like it
+2016-04-14 01:02:53 : SMS message: Me -> Katie Akers (8125540357) : Putting the kids to bed- will you be up when I am done?
+2016-04-14 01:03:06 : SMS message: Katie Akers -> Me (8125540357) : Yes 
+2016-04-14 01:08:42 : SMS message: Me -> Katie Akers (8125540357) : Ok
+2016-04-14 01:48:53 : SMS message: Katie Akers -> Me (8125540357) : Put ur butt plug in while u do ur stuff tonight 
+2016-04-14 01:49:41 : SMS message: Me -> Katie Akers (8125540357) : Will put it in for you.
+2016-04-14 02:01:30 : SMS message: Me -> Katie Akers (8125540357) : It is in- I am really leaking now
+2016-04-14 02:02:27 : SMS message: Katie Akers -> Me (8125540357) :  feels good doesn't it
+2016-04-14 02:02:58 : SMS message: Katie Akers -> Me (8125540357) : If ur good I might let u put it in on Friday night
+2016-04-14 02:04:33 : SMS message: Me -> Katie Akers (8125540357) : It feels great- I love the feeling when it is going in and when it is coming out
+2016-04-14 02:05:03 : SMS message: Me -> Katie Akers (8125540357) : I am going to be putty in your hands Friday night
+2016-04-14 02:05:41 : SMS message: Me -> Katie Akers (8125540357) : If there are ever any questions you want to ask me- that would be the time
+2016-04-14 02:06:16 : SMS message: Katie Akers -> Me (8125540357) : I will remember that
+2016-04-14 02:10:00 : SMS message: Me -> Katie Akers (8125540357) : Btw- Katie, I want you so bad...  all I can do is think about your pussy.  
+2016-04-14 02:11:46 : SMS message: Me -> Katie Akers (8125540357) : Your warm body next to mine- I can't say it enough that I am so excited to please you on Friday night
+2016-04-14 02:12:44 : SMS message: Katie Akers -> Me (8125540357) : Hmmm I'm liking tumblr
+2016-04-14 02:13:09 : SMS message: Me -> Katie Akers (8125540357) : It has some good stuff
+2016-04-14 02:13:58 : SMS message: Katie Akers -> Me (8125540357) : I'm excited for u to please me.... My pussy is going to be aching for your mouth all through the evening
+2016-04-14 02:15:02 : SMS message: Me -> Katie Akers (8125540357) : I wish I was there to lick and suck on your delicious clot until you scream
+2016-04-14 02:15:17 : SMS message: Me -> Katie Akers (8125540357) : *clit
+2016-04-14 02:15:42 : SMS message: Katie Akers -> Me (8125540357) : I wish u were too. 
+2016-04-14 02:16:34 : SMS message: Katie Akers -> Me (8125540357) : Going to sleep... Sleep tight
+2016-04-14 02:16:50 : SMS message: Me -> Katie Akers (8125540357) : Good night, babe- sweet dreams! 
+2016-04-14 10:24:49 : SMS message: Katie Akers -> Me (8125540357) : Good morning my little slave love knowing ur cock is mine this we
+2016-04-14 10:24:51 : SMS message: Katie Akers -> Me (8125540357) : ek.  
+2016-04-14 10:40:08 : SMS message: Me -> Katie Akers (8125540357) : Good morning! There is no other person on Earth that I would rather own my heart (and cock)
+2016-04-14 10:40:15 : SMS message: Me -> Katie Akers (8125540357) : ☺
